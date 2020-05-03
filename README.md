@@ -14,7 +14,9 @@ $ docker-compose up -d
 
 ### Diagram:
 
-IMG_HERE
+<center>
+    <img src="media/app_book-reader.jpg" alt="Diagram" title="Diagram"/>
+</center>
 
 ### **Tools**:
 [Drawio](https://app.diagrams.net/#G157JO2QcNaJMc8BAl6-zlkWkguNI9cLWu)
