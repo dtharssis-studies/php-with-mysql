@@ -12,12 +12,6 @@ $ docker-compose up -d
 
 [http://localhost:8080/](http://localhost:8080/)
 
-## Info
-
-Com base no curso de PHP com Mysql, foi criado uma aplicação bem simples apenas para descrever o conteúdo absorvido do curso.
-
-O sistema tem como função principal registrar livros, autores, genêros, situação de leitura e o leitor.
-
 ### Diagram:
 
 IMG_HERE
