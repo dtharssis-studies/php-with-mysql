@@ -1,0 +1,5 @@
+Secure information
+
+$ mysql_secure_installation
+
+Ex: user@host~$ mysql_secure_installation

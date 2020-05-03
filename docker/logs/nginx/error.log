@@ -1,0 +1,620 @@
+2020/05/02 04:45:07 [error] 6#6: *1272 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting end of file in /app/index.php on line 8" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080"
+2020/05/02 04:45:51 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:46:28 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:46:35 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:47:20 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:47:49 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:48:12 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:48:34 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:49:00 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:49:10 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:49:18 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:49:38 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:49:52 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:50:04 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:50:09 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:50:20 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:50:30 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:50:43 [error] 6#6: *1272 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:52:06 [error] 6#6: *1329 open() "/app/..." failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /... HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:52:06 [error] 6#6: *1329 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:52:33 [error] 6#6: *1329 open() "/app/..." failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /... HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:52:34 [error] 6#6: *1329 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:53:58 [error] 6#6: *1334 open() "/app/..." failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /... HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:53:59 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:54:08 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:54:13 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:54:21 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:54:41 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:55:17 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:56:17 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:56:30 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:57:01 [error] 6#6: *1334 open() "/app/..." failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /... HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:57:01 [error] 6#6: *1334 open() "/app/..." failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /... HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:57:29 [error] 6#6: *1334 open() "/app/..." failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /... HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:57:30 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:57:53 [error] 6#6: *1334 open() "/app/..." failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /... HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:57:54 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:58:18 [error] 6#6: *1334 open() "/app/..." failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /... HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:58:18 [error] 6#6: *1334 open() "/app/..." failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /... HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:58:19 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:59:24 [error] 6#6: *1334 open() "/app/..." failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /... HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 04:59:24 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:00:22 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:01:03 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:01:34 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:01:54 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:02:29 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:03:09 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:03:15 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:03:30 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:03:36 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:03:59 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:04:26 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:04:29 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:04:47 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:04:56 [error] 6#6: *1334 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:06:59 [error] 6#6: *1384 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:09:07 [error] 6#6: *1387 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:09:30 [error] 6#6: *1387 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:09:48 [error] 6#6: *1387 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:10:10 [error] 6#6: *1387 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:10:25 [error] 6#6: *1387 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:11:20 [error] 6#6: *1387 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:11:44 [error] 6#6: *1387 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:12:14 [error] 6#6: *1387 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:12:35 [error] 6#6: *1387 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:13:42 [error] 6#6: *1407 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:13:44 [error] 6#6: *1407 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:15:17 [error] 6#6: *1412 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:19:52 [error] 6#6: *1415 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: book in /app/index.php on line 114
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 116
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 119
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 122
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 125
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined variable: book in /app/index.php on line 114
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 116
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 119
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 122
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 125
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:19:52 [error] 6#6: *1415 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: book in /app/index.php on line 114
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 116
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 119
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 122
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 125
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined variable: book in /app/index.php on line 114
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 116
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 119
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 122
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 125
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:21:12 [error] 6#6: *1417 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: book in /app/index.php on line 114
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 116
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 119
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 122
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 125
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined variable: book in /app/index.php on line 114
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 116
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 119
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 122
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 125
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:21:12 [error] 6#6: *1417 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: book in /app/index.php on line 114
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 116
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 119
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 122
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 125
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined variable: book in /app/index.php on line 114
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 116
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 119
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 122
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 125
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:21:12 [error] 6#6: *1417 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: book in /app/index.php on line 114
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 116
+PHP message: PHP Stack trace:
+P" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:21:12 [error] 6#6: *1417 FastCGI sent in stderr: "HP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 119
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 122
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 125
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:21:12 [error] 6#6: *1417 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: book in /app/index.php on line 114
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 116
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 119
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 122
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Notice:  Undefined index: b.status in /app/index.php on line 125
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:21:14 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:22:08 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:22:19 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:23:17 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:23:35 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:24:07 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:24:42 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:24:55 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:25:23 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:25:32 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:26:19 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:26:39 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:27:00 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:27:27 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:27:35 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:27:46 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:28:05 [error] 6#6: *1417 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:30:18 [error] 6#6: *1458 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected ';' in /app/crud/details.php on line 44" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:30:56 [error] 6#6: *1458 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected ';' in /app/crud/details.php on line 37" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:31:21 [error] 6#6: *1458 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: r.name in /app/crud/details.php on line 37
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:31:22 [error] 6#6: *1458 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:32:03 [error] 6#6: *1458 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: r.name in /app/crud/details.php on line 37
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:32:05 [error] 6#6: *1458 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:32:45 [error] 6#6: *1458 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:33:00 [error] 6#6: *1458 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:34:13 [error] 6#6: *1458 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/books.php"
+2020/05/02 05:35:03 [error] 6#6: *1458 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:37:26 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:37:27 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:38:07 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:38:34 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:38:55 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:38:57 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:39:01 [error] 6#6: *1499 directory index of "/app/crud/" is forbidden, client: 172.18.0.1, server: users.local, request: "GET /crud/ HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:39:10 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:40:10 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:41:00 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:41:24 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:42:08 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:42:09 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:42:16 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:42:17 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:42:26 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:42:36 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:43:07 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:43:08 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:43:11 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:43:26 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:43:32 [error] 6#6: *1499 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:43:54 [error] 6#6: *1562 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/books.php"
+2020/05/02 05:45:12 [error] 6#6: *1562 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 05:45:13 [error] 6#6: *1562 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 117
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 117
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 05:46:06 [error] 6#6: *1562 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 117
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 117
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 05:46:06 [error] 6#6: *1562 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 05:46:19 [error] 6#6: *1562 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 117
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 117
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 05:46:20 [error] 6#6: *1562 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 05:46:39 [error] 6#6: *1562 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 117
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 117
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:47:11 [error] 6#6: *1562 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 115
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 115
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:47:12 [error] 6#6: *1562 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:47:18 [error] 6#6: *1562 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 115
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 115
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=1"
+2020/05/02 05:47:23 [error] 6#6: *1562 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 115
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 115
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=1"
+2020/05/02 05:47:51 [error] 6#6: *1562 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 115
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 115
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:48:58 [error] 6#6: *1602 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 120
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 120
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:48:59 [error] 6#6: *1602 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 05:49:15 [error] 6#6: *1602 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 120
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 120
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 05:49:43 [error] 6#6: *1602 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 120
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0
+PHP message: PHP Notice:  Undefined variable: user in /app/crud/details.php on line 120
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/details.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/details.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=1"
+2020/05/02 05:50:10 [error] 6#6: *1602 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:50:56 [error] 6#6: *1602 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:51:21 [error] 6#6: *1602 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=3"
+2020/05/02 05:53:09 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 05:54:08 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=3"
+2020/05/02 05:54:23 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=3"
+2020/05/02 05:55:09 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id="
+2020/05/02 05:56:13 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=3"
+2020/05/02 05:56:20 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id="
+2020/05/02 05:58:23 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=3"
+2020/05/02 05:59:07 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 72
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=3 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=3"
+2020/05/02 05:59:08 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=3"
+2020/05/02 05:59:15 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 72
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 05:59:36 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 73
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 05:59:37 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 05:59:59 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 73
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 05:59:59 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:00:05 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 73
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:00:06 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:00:07 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 73
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:00:07 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 73
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:00:07 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 73
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:00:08 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 73
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:00:08 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:00:21 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 73
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:00:22 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:00:29 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/genres.php"
+2020/05/02 06:00:36 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 73
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 06:01:00 [error] 6#6: *1632 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=1"
+2020/05/02 06:01:01 [error] 6#6: *1632 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=1"
+2020/05/02 06:01:11 [error] 6#6: *1711 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:02:16 [error] 6#6: *1720 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 67
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:02:17 [error] 6#6: *1720 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:02:43 [error] 6#6: *1720 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 67
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:02:46 [error] 6#6: *1720 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 67
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:03:02 [error] 6#6: *1720 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:03:03 [error] 6#6: *1720 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:03:25 [error] 6#6: *1720 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:03:25 [error] 6#6: *1720 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:03:45 [error] 6#6: *1720 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:03:45 [error] 6#6: *1720 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:04:17 [error] 6#6: *1720 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:04:18 [error] 6#6: *1720 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:04:23 [error] 6#6: *1720 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id=7 HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:04:25 [error] 6#6: *1720 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 47
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 48
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined variable: id in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 67
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 67
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 81
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 81
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id= HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:04:42 [error] 6#6: *1720 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/addReaderBook.php?id=7"
+2020/05/02 06:04:51 [error] 6#6: *1720 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 47
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 48
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 61
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 75
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0
+PHP message: PHP Notice:  Undefined offset: 0 in /app/crud/addReaderBook.php on line 75
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/crud/addReaderBook.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /crud/addReaderBook.php?id= HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id="
+2020/05/02 06:06:40 [error] 6#6: *1746 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/crud/details.php?id=7"
+2020/05/02 06:07:56 [error] 6#6: *1746 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:10:36 [error] 6#6: *1783 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/editar.php?id=1"
+2020/05/02 06:10:53 [error] 6#6: *1783 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/editar.php?id=1"
+2020/05/02 06:11:12 [error] 6#6: *1783 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/editar.php?id=1"
+2020/05/02 06:11:49 [error] 6#6: *1783 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/editar.php?id=1"
+2020/05/02 06:12:18 [error] 6#6: *1783 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/editar.php?id=1"
+2020/05/02 06:12:39 [error] 6#6: *1783 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/editar.php?id=1"
+2020/05/02 06:16:28 [error] 6#6: *1825 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:17:01 [error] 6#6: *1825 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:17:17 [error] 6#6: *1825 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:18:12 [error] 6#6: *1825 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:18:39 [error] 6#6: *1825 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:19:36 [error] 6#6: *1825 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:20:02 [error] 6#6: *1825 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:20:15 [error] 6#6: *1825 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:21:29 [error] 6#6: *1842 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:22:15 [error] 6#6: *1842 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:22:23 [error] 6#6: *1842 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:22:43 [error] 6#6: *1842 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/crud/editar.php?id=7"
+2020/05/02 06:24:32 [error] 6#6: *1861 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:25:00 [error] 6#6: *1861 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:25:24 [error] 6#6: *1861 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:26:17 [error] 6#6: *1861 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:27:08 [error] 6#6: *1861 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:28:26 [error] 6#6: *1861 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:30:08 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:31:09 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:31:32 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:31:51 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:32:11 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:32:50 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:32:59 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:33:13 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:33:33 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:34:08 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:34:29 [error] 6#6: *1891 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:36:38 [error] 6#6: *1914 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:37:22 [error] 6#6: *1914 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:38:07 [error] 6#6: *1914 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:38:27 [error] 6#6: *1914 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:40:21 [error] 6#6: *1938 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:40:35 [error] 6#6: *1938 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:40:46 [error] 6#6: *1938 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:42:05 [error] 6#6: *1938 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:42:30 [error] 6#6: *1938 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:42:41 [error] 6#6: *1938 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:43:33 [error] 6#6: *1938 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:43:36 [error] 6#6: *1938 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/authors.php"
+2020/05/02 06:45:18 [error] 6#6: *1938 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 06:45:24 [error] 6#6: *1938 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/authors.php"
+2020/05/02 06:45:24 [error] 6#6: *1938 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/authors.php"
+2020/05/02 06:45:26 [error] 6#6: *1938 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/authors.php"
+2020/05/02 06:47:07 [error] 6#6: *2046 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/books.php"
+2020/05/02 21:35:05 [error] 6#6: *2072 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 22:32:38 [error] 6#6: *2081 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/books.php"
+2020/05/02 22:42:28 [error] 6#6: *2106 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 22:43:09 [error] 6#6: *2106 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/books.php"
+2020/05/02 22:43:23 [error] 6#6: *2106 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/books.php"
+2020/05/02 22:46:50 [error] 6#6: *2129 FastCGI sent in stderr: "PHP message: PHP Warning:  require(path/to/google_search_results): failed to open stream: No such file or directory in /app/index.php on line 3
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Fatal error:  require(): Failed opening required 'path/to/google_search_results' (include_path='.:/usr/local/lib/php') in /app/index.php on line 3
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/genres.php"
+2020/05/02 22:46:51 [error] 6#6: *2129 FastCGI sent in stderr: "PHP message: PHP Warning:  require(path/to/google_search_results): failed to open stream: No such file or directory in /app/index.php on line 3
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0
+PHP message: PHP Fatal error:  require(): Failed opening required 'path/to/google_search_results' (include_path='.:/usr/local/lib/php') in /app/index.php on line 3
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/index.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/genres.php"
+2020/05/02 22:48:10 [error] 6#6: *2133 open() "/app/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: users.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/index.php"
+2020/05/02 22:48:51 [error] 6#6: *2133 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/books.php"
+2020/05/02 22:49:45 [error] 6#6: *2133 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0
+PHP message: PHP Notice:  Undefined index: reader_id in /app/authors.php on line 74
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /app/authors.php:0" while reading response header from upstream, client: 172.18.0.1, server: users.local, request: "GET /authors.php HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "localhost:8080", referrer: "http://localhost:8080/books.php"

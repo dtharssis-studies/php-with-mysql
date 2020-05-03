@@ -1,0 +1,46 @@
+version: '3'
+services:
+  host:
+    image: nginx:latest
+    hostname: host
+    container_name: host
+    ports:
+      - 8080:80
+    working_dir: /etc/nginx
+    volumes: 
+      - ../app:/app
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./logs/nginx:/var/log/nginx
+    depends_on: 
+      - phpmysql
+    restart: always
+    
+  phpmysql:
+    build: 
+      context: docker-files/php/
+      dockerfile: Dockerfile
+    image: php:schoolofnet
+    hostname: App
+    container_name: phpmysql
+    working_dir: /app
+    volumes: 
+      - ../app:/app
+      - ../config/php.ini:/usr/local/etc/php/php.ini
+    depends_on: 
+      - datadb
+    restart: always
+  
+  datadb:
+    image: mariadb:latest
+    hostname: datadb
+    container_name: datadb
+    ports: 
+      - "3306:3306"   
+    volumes: 
+      - ../../.data:/var/lib/mysql
+      - ./data/scripts:/home/scripts
+    environment:
+      MYSQL_ROOT_PASSWORD:  root
+      MYSQL_DATABASE: mysqlphp
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root
